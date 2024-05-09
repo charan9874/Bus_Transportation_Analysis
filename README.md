@@ -20,7 +20,7 @@
    This illustrating the distribution of ridership across different days of the week, facilitating insights into weekday versus weekend patterns.
 
 ## Buses Utilization Rides:
-   Pie chart representing the percentage of buses utilized for rides, indicating efficiency and resource allocation.
+   Pie chart representing the percentage of under, well,over utilized buses for rides.
 
 ## Total Riders Based on Moment of Trip:
    Analysis of the number of riders based on the time of day (morning, afternoon, evening), providing insights into peak travel times.
